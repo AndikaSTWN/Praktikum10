@@ -64,7 +64,7 @@ print(b,'\n')
 # Tugas Praktikum
 _program sederhana yang akan menampilkan daftar nilai mahasiswa_
 ## Flowchart
-![Alt text](Gambar/FlowChart.png)
+![Alt text](gambar/FlowChart.png)
 1. membuat lopping agar program terus berjalan:
 ```python
 sh while True :
@@ -104,14 +104,14 @@ else:
         print("Pilih menu yang tersedia: ")
 ```
 ## Output untuk (T) :
-![Alt text](Gambar/Gambar1.png)
+![Alt text](gambar/Gambar1.png)
 ## Output untuk (U) :
-![Alt text](Gambar/Gambar2.png)
+![Alt text](gambar/Gambar2.png)
 ## Output untuk (L) :
-![Alt text](Gambar/Gambar3.png)
+![Alt text](gambar/Gambar3.png)
 ## Output untuk (C) :
-![Alt text](Gambar/Gambar4.png)
+![Alt text](gambar/Gambar4.png)
 ## Output untuk (H) :
-![Alt text](Gambar/Gambar5.png)
+![Alt text](gambar/Gambar5.png)
 
 # Terima Kasih
