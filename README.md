@@ -59,7 +59,7 @@ print(b,'\n')
 ```
 
 ## Berikut adalah hasil perogramnya
-![Alt text](Gambar/Latihan.png)
+![Alt text](gambar/Latihan.png)
 
 # Tugas Praktikum
 _program sederhana yang akan menampilkan daftar nilai mahasiswa_
